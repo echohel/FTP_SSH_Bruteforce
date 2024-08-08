@@ -67,7 +67,7 @@ The script begins with a welcome message and checks if the target IP address is 
 ```bash
 chmod +x ftp_ssh_bruteforce.sh
 ./ftp_ssh_bruteforce.sh 10.0.2.15
-
+```
 
 ### Notes
 Ensure hydra, sshpass, and ftp are installed on your system.
